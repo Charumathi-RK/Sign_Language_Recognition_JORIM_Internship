@@ -1,0 +1,2 @@
+# Sign_Language_Recognition_JORIM_Internship
+Internship Task at Jorim Technology Solutions
